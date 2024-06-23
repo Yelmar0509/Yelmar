@@ -10,8 +10,8 @@
     <div class="container">
         <h1>¿Quieres ser mi enamorada?</h1>
         <div class="buttons">
-            <a href="https://wa.me/521XXXXXXXXXX?text=¡Sí,%20acepto!%20😍" class="button yes">Sí, acepto</a>
-            <a href="https://wa.me/521XXXXXXXXXX?text=No,%20lo%20siento.%20😢" class="button no">No, lo siento</a>
+            <a href="https://wa.me/+51910397434?text=¡Sí,%20acepto!%20😍" class="button yes">Sí, acepto</a>
+            <a href="https://wa.me/+51910397434?text=No,%20lo%20siento.%20😢" class="button no">No, lo siento</a>
         </div>
     </div>
 </body>
